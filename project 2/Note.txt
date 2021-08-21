@@ -1,2 +1,0 @@
-I deleted the dataset as they are huge.
-but you can find them in the zipped file, put it in the same directory as shown in the notebook to rerun the notebook
